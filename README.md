@@ -27,3 +27,27 @@ B.Tech Student • DSA Learner • Developer • AI/ML Enthusiast
 🔥 Solving LeetCode problems and pushing my solutions to GitHub
 
 🚀 Always learning and building something new
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
+</p>
+
+### Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,django,nodejs,mongodb,mysql,git,github,vscode" />
+</p>
