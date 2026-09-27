@@ -72,37 +72,42 @@
 ## 👀 My Projects
 
 
-
 <div align="center">
 
-### `MY PROJECT ARSENAL`
+`MY PROJECT ARSENAL`
 
 </div>
 
+<br>
+
 <table>
 <tr>
+
+<!-- ================= SGPA ================= -->
 
 <td width="50%" valign="top">
 
 ### 🧮 SGPA Calculator
 
-> 📊 A simple and clean web application for calculating SGPA.
+> 📊 A simple web app for calculating SGPA quickly and easily.
 
-**⚙️ Built with**
+**⚙️ Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=html,css,js" height="35"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java" height="32"/>
 
 <br>
 
-`🌐 Web App` &nbsp; `⚡ JavaScript`
+`🌐 Web App` &nbsp; `⚡ JavaScript` &nbsp; `☕ Java`
 
 <br><br>
 
 <a href="https://github.com/RajahmundrySravani/sgpa-calculator-online">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
+<!-- ================= TYPO ================= -->
 
 <td width="50%" valign="top">
 
@@ -110,47 +115,53 @@
 
 > ⚡ A typing and coding speed project with WPM tracking.
 
-**⚙️ Built with**
+**⚙️ Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=html,css,js" height="35"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="32"/>
 
 <br>
 
 `⌨️ Typing` &nbsp; `📈 WPM`
 
-<br><br>
+<br><br><br>
 
 <a href="https://github.com/RajahmundrySravani/typo-tornado">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
 
+<!-- ======================================================= -->
+
 <tr>
+
+<!-- ================= AIRLINE ================= -->
 
 <td width="50%" valign="top">
 
 ### ✈️ Airline Ticket Booking
 
-> ✈️ A frontend airline ticket booking system with fare calculation.
+> 🎫 A frontend booking system with fare calculation logic.
 
-**⚙️ Built with**
+**⚙️ Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=html,css,js" height="35"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c" height="32"/>
 
 <br>
 
-`🎫 Booking` &nbsp; `💰 Fare Logic`
+`🎫 Booking` &nbsp; `💰 Fare Logic` &nbsp; `⚙️ C`
 
 <br><br>
 
 <a href="https://github.com/RajahmundrySravani/airline-ticket-booking">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
+<!-- ================= PORTFOLIO ================= -->
 
 <td width="50%" valign="top">
 
@@ -158,9 +169,9 @@
 
 > 💻 My personal portfolio showcasing my work and skills.
 
-**⚙️ Built with**
+**⚙️ Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=html,css" height="35"/>
+<img src="https://skillicons.dev/icons?i=html,css" height="32"/>
 
 <br>
 
@@ -169,14 +180,18 @@
 <br><br>
 
 <a href="https://github.com/RajahmundrySravani/Portfolio-CO">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
 
+<!-- ======================================================= -->
+
 <tr>
+
+<!-- ================= YOUTUBE ================= -->
 
 <td width="50%" valign="top">
 
@@ -184,9 +199,9 @@
 
 > 🎬 A frontend recreation of the YouTube interface.
 
-**⚙️ Built with**
+**⚙️ Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=html,css" height="35"/>
+<img src="https://skillicons.dev/icons?i=html,css" height="32"/>
 
 <br>
 
@@ -195,10 +210,12 @@
 <br><br>
 
 <a href="https://github.com/RajahmundrySravani/youtube-clone">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
+<!-- ================= HEALTHCARE ================= -->
 
 <td width="50%" valign="top">
 
@@ -206,9 +223,9 @@
 
 > 📊 A Python-based project for healthcare data analytics.
 
-**⚙️ Built with**
+**⚙️ Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=python" height="35"/>
+<img src="https://skillicons.dev/icons?i=python" height="32"/>
 
 <br>
 
@@ -217,27 +234,33 @@
 <br><br>
 
 <a href="https://github.com/RajahmundrySravani/Development-of-Big-Data-Pipeline-for-Healthcare-Analytics-using-Python">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E+loading+next+project...;%3E+more+missions+incoming...;%3E+building+something+new+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E+loading+next+project...;%3E+more+missions+incoming...;%3E+building+something+new+%F0%9F%9A%80" />
 
-<br><br>
+<br>
 
 <a href="https://github.com/RajahmundrySravani?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-075985?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
+
+
+
+
 
 
 <!-- ======================= STREAK ======================= -->
@@ -275,29 +298,13 @@
 
 
 
-<!-- ======================= CURRENT FOCUS ======================= -->
-
-## 🎯 Currently
-
-<div align="center">
-
-`🧠 DSA` &nbsp; • &nbsp; `☕ Java` &nbsp; • &nbsp; `🌐 Web Development` &nbsp; • &nbsp; `🔥 Problem Solving`
-
-<br><br>
-
-> **One problem at a time. One commit at a time.**
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E+keep+learning...;%3E+keep+building...;%3E+keep+debugging...;%3E+system.status%3Dlearning" />
 
 <br><br>
 
-### 💙 Thanks for visiting! 💙
+### 💙 Thanks for visiting Buddy !! 💙
 
 </div>
 
