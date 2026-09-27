@@ -12,127 +12,19 @@
 
 <br>
 
-
-<!-- ======================= PLAYER PROFILE ======================= -->
-
-<div align="center">
-
-# 🎮 PLAYER PROFILE
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                  PLAYER STATUS                      ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║   👤 PLAYER       : SRAVANI                          ║
-║   💻 CLASS        : DEVELOPER                        ║
-║   🧠 SPECIALTY    : PROBLEM SOLVING                  ║
-║   ⚡ STATUS       : ONLINE                           ║
-║                                                      ║
-║   ❤️ HP           : ██████████  100%                 ║
-║   ⚡ XP           : ███████░░░  70%                  ║
-║   🔥 STREAK       : KEEP GOING                       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
-<!-- ======================= ABOUT ======================= -->
+<!-- ======================= LANGUAGES ======================= -->
 
-# 👋 `> whoami`
-
-```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│  🎓 B.Tech Student                                │
-│  💻 Developer                                     │
-│  🧠 DSA Learner                                   │
-│  🚀 Project Builder                               │
-│                                                    │
-│  I enjoy solving problems, building projects,     │
-│  learning new technologies and improving one      │
-│  step at a time.                                  │
-│                                                    │
-╰────────────────────────────────────────────────────╯
-```
+## 💻 Languages I Use
 
 <div align="center">
 
-### `Learn → Build → Debug → Improve → Level Up`
-
-</div>
-
----
-
-<!-- ======================= ACTIVE QUESTS ======================= -->
-
-# ⚔️ ACTIVE QUESTS
-
-<div align="center">
-
-| 🎯 QUEST | 📊 PROGRESS | ⚡ STATUS |
-|:---|:---:|:---:|
-| 🧠 Master DSA | `████████░░` | 🔥 ACTIVE |
-| ☕ Improve Java | `███████░░░` | 🔥 ACTIVE |
-| 🌐 Web Development | `██████░░░░` | ⚡ ACTIVE |
-| 🧩 Problem Solving | `████████░░` | 🔥 ACTIVE |
-| 🚀 Build Projects | `███████░░░` | ⚡ ACTIVE |
-
-</div>
-
----
-
-<!-- ======================= DSA JOURNEY ======================= -->
-
-# 🧠 DSA QUEST LOG
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────╮
-│                  DSA JOURNEY                       │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│  Arrays              ████████████████ ✓            │
-│  Strings             ████████████████ ✓            │
-│  Hashing             ██████████████░░ →            │
-│  Linked Lists        ████████████░░░░ →            │
-│  Stack & Queue       ██████████░░░░░░ →            │
-│  Recursion           █████████░░░░░░░ →            │
-│  Backtracking        ████████░░░░░░░░ →            │
-│  Trees               ██████░░░░░░░░░░ →            │
-│  Graphs              ████░░░░░░░░░░░░ →            │
-│  Dynamic Programming ██░░░░░░░░░░░░░░ →            │
-│                                                    │
-╰────────────────────────────────────────────────────╯
-```
-
-### 🔥 Current Rule
-
-**Solve → Understand → Debug → Learn → Repeat**
-
-</div>
-
----
-
-<!-- ======================= TECH STACK ======================= -->
-
-# 🎒 TECH INVENTORY
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js" />
 
 <br><br>
 
-### ⚙️ Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,react,django,nodejs,mysql,mongodb,postman" />
+`Java` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript`
 
 </div>
 
@@ -140,182 +32,89 @@
 
 <!-- ======================= PROJECTS ======================= -->
 
-# 🚀 PROJECT ARMORY
+## 🚀 My Projects
 
 <div align="center">
 
-### `SELECT YOUR MISSION`
+### 🧮 SGPA Calculator
 
-</div>
+A simple web application for calculating SGPA.
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🧮 SGPA CALCULATOR</h3>
-
-```text
-╭────────────────────────────╮
-│ MISSION : SGPA             │
-│ TYPE    : WEB APP          │
-│ STATUS  : COMPLETE ✓       │
-╰────────────────────────────╯
-```
-
-Calculate SGPA through a simple web interface.
-
-**⚙️ Stack**
-
-`HTML` `CSS` `JavaScript`
+**HTML • CSS • JavaScript**
 
 <a href="https://github.com/RajahmundrySravani/sgpa-calculator-online">
-<img src="https://img.shields.io/badge/▶_ENTER_MISSION-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<br><br>
 
-<td width="50%" valign="top">
+---
 
-<h3>⌨️ TYPO TORNADO</h3>
+### ⌨️ Typo Tornado
 
-```text
-╭────────────────────────────╮
-│ MISSION : TYPING           │
-│ TYPE    : WEB APP          │
-│ STATUS  : COMPLETE ✓       │
-╰────────────────────────────╯
-```
+A web project focused on improving typing and coding speed.
 
-Typing and coding speed project with WPM tracking.
-
-**⚙️ Stack**
-
-`HTML` `CSS` `JavaScript`
+**HTML • CSS • JavaScript**
 
 <a href="https://github.com/RajahmundrySravani/typo-tornado">
-<img src="https://img.shields.io/badge/▶_ENTER_MISSION-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<br><br>
 
-</tr>
+---
 
-<tr>
+### ✈️ Airline Ticket Booking
 
-<td width="50%" valign="top">
+A frontend airline ticket booking project.
 
-<h3>✈️ AIRLINE TICKET BOOKING</h3>
-
-```text
-╭────────────────────────────╮
-│ MISSION : AIRLINE          │
-│ TYPE    : BOOKING SYSTEM   │
-│ STATUS  : COMPLETE ✓       │
-╰────────────────────────────╯
-```
-
-Airline ticket booking interface with fare calculation logic.
-
-**⚙️ Stack**
-
-`HTML` `CSS` `JavaScript` `C`
+**HTML • CSS • JavaScript**
 
 <a href="https://github.com/RajahmundrySravani/airline-ticket-booking">
-<img src="https://img.shields.io/badge/▶_ENTER_MISSION-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<br><br>
 
-<td width="50%" valign="top">
+---
 
-<h3>🌐 PORTFOLIO</h3>
+### 🌐 Portfolio
 
-```text
-╭────────────────────────────╮
-│ MISSION : PORTFOLIO        │
-│ TYPE    : WEBSITE          │
-│ STATUS  : ACTIVE ⚡        │
-╰────────────────────────────╯
-```
+My personal portfolio website.
 
-Personal developer portfolio showcasing projects and skills.
-
-**⚙️ Stack**
-
-`HTML` `CSS`
+**HTML • CSS**
 
 <a href="https://github.com/RajahmundrySravani/Portfolio-CO">
-<img src="https://img.shields.io/badge/▶_ENTER_MISSION-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║              🚀 MORE MISSIONS               ║
-║                                              ║
-║       New projects are currently loading... ║
-║                                              ║
-║                [ IN PROGRESS ]               ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-</div>
+<br><br>
 
 ---
 
-<!-- ======================= CONTRIBUTION HEATMAP ======================= -->
+### ▶️ YouTube Clone
 
-# 🔥 CONTRIBUTION HEAT MAP
+A frontend project recreating the YouTube interface.
 
-<div align="center">
+**HTML • CSS**
 
-### `CODING ACTIVITY // LAST 31 DAYS`
+<a href="https://github.com/RajahmundrySravani/youtube-clone">
+<img src="https://img.shields.io/badge/View_Project-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajahmundrySravani&bg_color=020617&color=38BDF8&line=0284C7&point=7DD3FC&area_color=075985&area=true&hide_border=true&custom_title=SRAVANI%20%7C%20CODING%20ACTIVITY&days=31" width="100%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────╮
-│              ⚡ ACTIVITY STATUS              │
-├──────────────────────────────────────────────┤
-│                                              │
-│   🧠 DSA              ACTIVE                 │
-│   💻 PROJECTS         ACTIVE                 │
-│   🔥 PROBLEM SOLVING  ACTIVE                 │
-│   🚀 LEARNING         ALWAYS                 │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-</div>
+<br><br>
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
+### 📊 Healthcare Big Data Pipeline
 
-# 📊 GITHUB COMMAND CENTER
+A Python-based big data analytics project.
 
-<div align="center">
+**Python**
 
-<img src="https://github-readme-stats.vercel.app/api?username=RajahmundrySravani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=E0F2FE&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajahmundrySravani&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E0F2FE" height="180"/>
+<a href="https://github.com/RajahmundrySravani/Development-of-Big-Data-Pipeline-for-Healthcare-Analytics-using-Python">
+<img src="https://img.shields.io/badge/View_Project-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -323,136 +122,68 @@ Personal developer portfolio showcasing projects and skills.
 
 <!-- ======================= STREAK ======================= -->
 
-# ⚡ COMBO STREAK
+## 🔥 Coding Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RajahmundrySravani&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8"/>
+<img src="https://streak-stats.demolab.com?user=RajahmundrySravani&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=94A3B8" width="90%"/>
 
 <br><br>
 
-```text
-🔥 KEEP THE COMBO ALIVE
-```
+### `KEEP THE STREAK ALIVE ⚡`
 
 </div>
 
 ---
 
-<!-- ======================= ACHIEVEMENTS ======================= -->
+<!-- ======================= DYNAMIC HEAT MAP ======================= -->
 
-# 🏆 ACHIEVEMENTS UNLOCKED
+## 📈 Coding Activity
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════╗
-║              🏆 ACHIEVEMENTS                 ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  🔥  DAILY PROBLEM SOLVER                   ║
-║      Keep pushing those DSA problems.       ║
-║                                              ║
-║  💻  PROJECT BUILDER                        ║
-║      Learn by building real projects.       ║
-║                                              ║
-║  🧠  PROBLEM SOLVER                         ║
-║      Turning problems into algorithms.      ║
-║                                              ║
-║  📚  CONTINUOUS LEARNER                     ║
-║      Always learning something new.         ║
-║                                              ║
-║  🚀  GITHUB BUILDER                         ║
-║      One commit at a time.                 ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajahmundrySravani&bg_color=020617&color=38BDF8&line=0EA5E9&point=7DD3FC&area_color=075985&area=true&hide_border=true&radius=12&custom_title=SRAVANI%20%7C%20CODING%20ACTIVITY&days=90" width="100%"/>
 
 </div>
-
----
-
-<!-- ======================= GOALS ======================= -->
-
-# 🎯 NEXT MISSION
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│              🎯 2026 MISSIONS                │
-│                                              │
-│   ☐ Become stronger at DSA                  │
-│   ☐ Solve more coding problems              │
-│   ☐ Improve Java                            │
-│   ☐ Improve JavaScript                      │
-│   ☐ Build meaningful projects               │
-│   ☐ Explore AI / ML                         │
-│   ☐ Contribute to Open Source               │
-│   ☐ Become industry-ready                   │
-│                                              │
-│            STATUS : IN PROGRESS              │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-<!-- ======================= PHILOSOPHY ======================= -->
-
-# 🎮 PLAYER PHILOSOPHY
-
-<div align="center">
-
-### `THINK → CODE → DEBUG → LEARN → LEVEL UP`
 
 <br>
 
-> **Every bug is XP.**  
-> **Every problem is a quest.**  
-> **Every project is a new level.**
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RajahmundrySravani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=E0F2FE&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajahmundrySravani&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E0F2FE" height="170"/>
 
 </div>
 
 ---
 
-<!-- ======================= OUTSIDE CODE ======================= -->
+<!-- ======================= CURRENT FOCUS ======================= -->
 
-# 🌊 OUTSIDE THE CODE
-
-<div align="center">
-
-🎨 **Drawing**
-&nbsp;&nbsp; • &nbsp;&nbsp;
-🎬 **Anime**
-&nbsp;&nbsp; • &nbsp;&nbsp;
-✂️ **Editing**
-&nbsp;&nbsp; • &nbsp;&nbsp;
-💻 **Coding**
-
-</div>
-
----
-
-<!-- ======================= FINAL ======================= -->
+## 🎯 Currently
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E+quest.continue();;%3E+keep+learning...;%3E+keep+building...;%3E+keep+leveling+up+%F0%9F%92%99;%3E+system.status%3Dlearning" />
+`🧠 DSA` &nbsp; • &nbsp; `☕ Java` &nbsp; • &nbsp; `🌐 Web Development` &nbsp; • &nbsp; `🔥 Problem Solving`
 
 <br><br>
 
-### 💙 `PLAYER STATUS : STILL LEARNING`
-
-<br>
-
-**Thanks for visiting my profile!**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:075985,100:020617&height=120&section=footer"/>
+> **One problem at a time. One commit at a time.**
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E+keep+learning...;%3E+keep+building...;%3E+keep+debugging...;%3E+system.status%3Dlearning" />
+
+<br><br>
+
+### 💙 Thanks for visiting!
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:075985,100:020617&height=100&section=footer" width="100%"/>
