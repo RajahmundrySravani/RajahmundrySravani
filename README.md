@@ -1,8 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- ======================= HEADER ======================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:38BDF8&height=220&section=header&text=SRAVANI&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20DSA%20Learner%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:38BDF8&height=260&section=header&text=SRAVANI.exe&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20DSA%20Learner%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&animation=twinkling" width="100%"/>
 
 <br>
 
@@ -11,6 +25,25 @@
 </div>
 
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -34,9 +67,7 @@
 
 ## 👀 My Projects
 
-<!-- ======================= PROJECTS ======================= -->
 
-## 🚀 Featured Projects
 
 <div align="center">
 
@@ -221,27 +252,42 @@
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
 <!-- ======================= DYNAMIC HEAT MAP ======================= -->
 
 ## 📈 Coding Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajahmundrySravani&bg_color=020617&color=38BDF8&line=0EA5E9&point=7DD3FC&area_color=075985&area=true&hide_border=true&radius=12&custom_title=SRAVANI%20%7C%20CODING%20ACTIVITY&days=90" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajahmundrySravani" width="100%"/>
 
 </div>
 
 <br>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RajahmundrySravani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=E0F2FE&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajahmundrySravani&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E0F2FE" height="170"/>
 
-</div>
 
----
+
+
+
+
+
+
+
+
+
 
 <!-- ======================= CURRENT FOCUS ======================= -->
 
