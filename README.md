@@ -51,3 +51,100 @@ B.Tech Student • DSA Learner • Developer • AI/ML Enthusiast
 <p>
   <img src="https://skillicons.dev/icons?i=react,django,nodejs,mongodb,mysql,git,github,vscode" />
 </p>
+
+
+
+
+
+
+
+
+
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧮 SGPA Calculator | Calculate SGPA easily using a web interface |
+| ⌨️ Typo Tornado | Improve typing and coding speed |
+| ✈️ Airline Ticket Booking | Ticket booking system using HTML/CSS/JS |
+| 🤖 AI Sign Language Translator | AI-based accessibility project |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="..." />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🧠 Problem Solving
+
+💻 Solving LeetCode problems regularly
+
+📌 Topics I'm practicing:
+
+- Arrays
+- Strings
+- Linked Lists
+- Recursion
+- Backtracking
+- Hashing
+- Trees
+- Dynamic Programming
+
+📈 Goal: Become strong at DSA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
