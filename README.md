@@ -8,14 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=%3E+initializing+Sravani.exe...;%3E+learning+DSA+%F0%9F%A7%A0;%3E+solving+problems+%F0%9F%94%A5;%3E+building+projects+%F0%9F%92%BB;%3E+debugging+my+way+forward+%F0%9F%90%9B;%3E+system.status%3Dlearning" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LEVEL-UP-DAILY-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/DSA-IN%20PROGRESS-38BDF8?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
 </div>
 
 <br>
