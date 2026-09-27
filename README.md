@@ -1,3 +1,39 @@
+<!-- ======================= HEADER ======================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:38BDF8&height=220&section=header&text=SRAVANI&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20DSA%20Learner%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=%3E+initializing+Sravani.exe...;%3E+learning+DSA+%F0%9F%A7%A0;%3E+solving+problems+%F0%9F%94%A5;%3E+building+projects+%F0%9F%92%BB;%3E+debugging+my+way+forward+%F0%9F%90%9B;%3E+system.status%3Dlearning" />
+
+</div>
+
+<br>
+
+---
+
+<!-- ======================= LANGUAGES ======================= -->
+
+## 💻 Languages I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js" />
+
+<br><br>
+
+`Java` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript`
+
+</div>
+
+---
+
+<!-- ======================= PROJECTS ======================= -->
+
+## 👀 My Projects
+
 <!-- ======================= PROJECTS ======================= -->
 
 ## 🚀 Featured Projects
@@ -167,3 +203,72 @@
 </a>
 
 </div>
+
+
+<!-- ======================= STREAK ======================= -->
+
+## 🔥 Coding Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RajahmundrySravani&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=94A3B8" width="90%"/>
+
+<br><br>
+
+### `KEEP THE STREAK ALIVE ⚡`
+
+</div>
+
+---
+
+<!-- ======================= DYNAMIC HEAT MAP ======================= -->
+
+## 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajahmundrySravani&bg_color=020617&color=38BDF8&line=0EA5E9&point=7DD3FC&area_color=075985&area=true&hide_border=true&radius=12&custom_title=SRAVANI%20%7C%20CODING%20ACTIVITY&days=90" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RajahmundrySravani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=E0F2FE&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajahmundrySravani&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E0F2FE" height="170"/>
+
+</div>
+
+---
+
+<!-- ======================= CURRENT FOCUS ======================= -->
+
+## 🎯 Currently
+
+<div align="center">
+
+`🧠 DSA` &nbsp; • &nbsp; `☕ Java` &nbsp; • &nbsp; `🌐 Web Development` &nbsp; • &nbsp; `🔥 Problem Solving`
+
+<br><br>
+
+> **One problem at a time. One commit at a time.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E+keep+learning...;%3E+keep+building...;%3E+keep+debugging...;%3E+system.status%3Dlearning" />
+
+<br><br>
+
+### 💙 Thanks for visiting! 💙
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:075985,100:020617&height=100&section=footer" width="100%"/>
