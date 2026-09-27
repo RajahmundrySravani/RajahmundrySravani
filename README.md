@@ -10,7 +10,11 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RajahmundrySravani&label=PROFILE%20VIEWS&color=0284C7&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LEVEL-UP-DAILY-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DSA-IN%20PROGRESS-38BDF8?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </div>
 
