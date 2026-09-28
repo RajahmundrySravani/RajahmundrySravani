@@ -269,7 +269,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RajahmundrySravani&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=94A3B8" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=RajahmundrySravani&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=94A3B8&timezone=Asia%2FKolkata" width="90%"/>
 
 <br><br>
 
