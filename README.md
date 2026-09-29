@@ -301,16 +301,13 @@
 
 
 
-
-
-
 <!-- ======================= CONTRIBUTION SNAKE ======================= -->
 
 ## 🐍 Coding Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RajahmundrySravani/RajahmundrySravani/output/github-contribution-grid-snake.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/RajahmundrySravani/RajahmundrySravani/output/sravani-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 <br>
 
