@@ -303,7 +303,7 @@
 
 <!-- ======================= CONTRIBUTION SNAKE ======================= -->
 
-## 🐍 Coding Activity
+## 🐍 Contribution Snaky
 
 <div align="center">
 
