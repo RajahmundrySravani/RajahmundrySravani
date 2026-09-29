@@ -263,19 +263,77 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- ======================= STREAK ======================= -->
 
 ## 🔥 Coding Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RajahmundrySravani&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=94A3B8&timezone=Asia%2FKolkata" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=RajahmundrySravani&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=94A3B8&timezone=Asia%2FKolkata" width="70%"/>
 
 <br><br>
 
-### `KEEP THE STREAK ALIVE ⚡`
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+<!-- ======================= CONTRIBUTION SNAKE ======================= -->
+
+## 🐍 Coding Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RajahmundrySravani/RajahmundrySravani/output/github-contribution-grid-snake.svg" width="95%"/>
+
+<br>
+
+`KEEP CODING • KEEP BUILDING • KEEP GROWING ⚡`
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
