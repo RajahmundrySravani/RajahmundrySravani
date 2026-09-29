@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: RajahmundrySravani
           outputs: |
-  dist/github-contribution-grid-snake.svg?color_snake=%237DD3FC&color_dots=%230F172A,%23075985,%230EA5E9,%2338BDF8,%237DD3FC
-  dist/github-contribution-grid-snake-dark.svg?color_snake=%237DD3FC&color_dots=%23020617,%23075985,%230EA5E9,%2338BDF8,%237DD3FC
+            dist/github-contribution-grid-snake.svg?color_snake=%237DD3FC&color_dots=%230F172A,%23075985,%230EA5E9,%2338BDF8,%237DD3FC
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%237DD3FC&color_dots=%23020617,%23075985,%230EA5E9,%2338BDF8,%237DD3FC
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v4
