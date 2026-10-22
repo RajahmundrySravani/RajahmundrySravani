@@ -53,7 +53,7 @@
 
 <!-- ======================= LANGUAGES ======================= -->
 
-## 💻 Languages I Use
+## 💻 Technologies I Use
 
 <div align="center">
 
