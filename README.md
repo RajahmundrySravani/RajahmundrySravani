@@ -57,11 +57,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,vite,expressjs,nodejs,mongodb" />
 
 <br><br>
 
-`Java` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript`
+`Java` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `React` &nbsp; `vite` &nbsp; `Express` &nbsp; `Node js` &nbsp; `MongoDB`
 
 </div>
 
