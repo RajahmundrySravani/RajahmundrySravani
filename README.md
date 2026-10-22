@@ -270,24 +270,15 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RajahmundrySravani&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=94A3B8&timezone=Asia%2FKolkata" width="70%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RajahmundrySravani/RajahmundrySravani/output/sravani-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com/?user=RajahmundrySravani&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=94A3B8&timezone=Asia%2FKolkata&cache=off" width="70%" alt="Sravani's GitHub Coding Streak"/>
+</a>
 
 <br>
 
-`KEEP CODING • KEEP BUILDING • KEEP GROWING ⚡`
+`🔥 CODE DAILY • BUILD PROJECTS • KEEP GROWING ⚡`
 
 </div>
-
 ---
 
 <div align="center">
