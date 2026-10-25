@@ -250,9 +250,19 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajahmundrySravani/RajahmundrySravani/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajahmundrySravani/RajahmundrySravani/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/RajahmundrySravani/RajahmundrySravani/output/github-snake.svg" width="95%"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RajahmundrySravani/RajahmundrySravani/output/sravani-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RajahmundrySravani/RajahmundrySravani/output/sravani-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/RajahmundrySravani/RajahmundrySravani/output/sravani-snake.svg"
+    width="95%"
+  />
 </picture>
 
 <br>
