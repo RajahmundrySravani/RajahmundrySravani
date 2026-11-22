@@ -245,6 +245,7 @@
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -259,7 +260,7 @@
     srcset="https://raw.githubusercontent.com/RajahmundrySravani/RajahmundrySravani/output/sravani-snake.svg"
   />
   <img
-    alt="GitHub Contribution Snake Animation"
+    alt="Blue GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/RajahmundrySravani/RajahmundrySravani/output/sravani-snake.svg"
     width="95%"
   />
@@ -270,6 +271,7 @@
 `KEEP CODING • KEEP BUILDING • KEEP GROWING ⚡`
 
 </div>
+
 
 ---
 
