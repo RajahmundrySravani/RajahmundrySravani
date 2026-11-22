@@ -1,33 +1,25 @@
 
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
-
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      - name: Generate blue contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: RajahmundrySravani
           outputs: |
-            dist/sravani-snake.svg?color_snake=%237DD3FC&color_dots=%23020617,%23075585,%230EA5E9,%2338BDF8,%237DD3FC
-            dist/sravani-snake-dark.svg?palette=github-dark&color_snake=%237DD3FC
+            dist/sravani-snake.svg?color_snake=%237DD3FC&color_dots=%230B1E3A,%23123B68,%231D5FA8,%232994E6,%237DD3FC
+            dist/sravani-snake-dark.svg?color_snake=%237DD3FC&color_dots=%230B1E3A,%23123B68,%231D5FA8,%232994E6,%237DD3FC
 
-      - name: Push generated files
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
