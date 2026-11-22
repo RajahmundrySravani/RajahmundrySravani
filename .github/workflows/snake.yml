@@ -15,9 +15,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: RajahmundrySravani
-          outputs: |
-            dist/sravani-snake.svg?color_snake=%237DD3FC&color_dots=%230B1E3A,%23123B68,%231D5FA8,%232994E6,%237DD3FC
-            dist/sravani-snake-dark.svg?color_snake=%237DD3FC&color_dots=%230B1E3A,%23123B68,%231D5FA8,%232994E6,%237DD3FC
+          
+outputs: |
+  dist/sravani-snake.svg?color_snake=#38BDF8&color_dots=#0B1E3A,#123B68,#1D4ED8,#2563EB,#60A5FA
+  dist/sravani-snake-dark.svg?color_snake=#38BDF8&color_dots=#0B1E3A,#123B68,#1D4ED8,#2563EB,#60A5FA
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
